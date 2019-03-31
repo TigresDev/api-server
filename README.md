@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe app api source code
+# django-api-server
+Hello world
